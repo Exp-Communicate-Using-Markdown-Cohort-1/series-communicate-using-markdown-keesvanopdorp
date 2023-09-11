@@ -20,3 +20,8 @@
   const strings = ["test", "lol", "xd"];
   strings.map((string) => console.log));
 ```
+
+# TODO's
+
+- [ ] Add more rickrolls to index.md
+- [ ] Merge pull request
